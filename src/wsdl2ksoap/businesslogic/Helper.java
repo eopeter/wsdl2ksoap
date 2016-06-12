@@ -43,7 +43,7 @@ public class Helper
 
         }
 
-        //remove . from begining
+        //remove . from beginning
         packageName = packageName.substring(1);
 
 
